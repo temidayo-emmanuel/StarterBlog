@@ -42,7 +42,7 @@ StarterBlog/
 
 ## 🔧 Key Features
 
-- User authentication (if implemented)  
+- User authentication
 - CRUD blog post management  
 - Responsive and accessible UI  
 - Clear client-server separation  
@@ -70,7 +70,7 @@ StarterBlog/
 
 3.	Setup environment variables:
    
-  Create .env files in both client and server folders (if needed) with your API keys or DB connections.
+  Create .env files in both client and server folders with your API keys or DB connections.
 
 4.	Run development servers:
 
