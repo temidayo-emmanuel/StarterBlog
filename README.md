@@ -13,7 +13,7 @@ StarterBlog allows users to create, edit, and publish blog posts seamlessly. It 
 ## 🛠️ Technologies Used
 
 - **Frontend:** React, Vite, CSS Modules  
-- **Backend:** Node.js, Express.js (assumed)  
+- **Backend:** Node.js, Express.js  
 - **Version Control:** Git, GitHub  
 - **Environment Management:** `.env` files with proper `.gitignore` handling  
 - **Deployment:** Configured for platforms like Vercel  
