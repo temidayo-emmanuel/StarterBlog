@@ -77,14 +77,12 @@ StarterBlog/
   
   cd ../server
   npm start
-
-
   
-⸻
+---
 
-📈 What I Learned
-	•	Managing a full-stack project with clear folder separation
-	•	Configuring environment variables securely
-	•	Using Git and GitHub effectively
-	•	Deploying React apps with Vercel
-	•	Structuring scalable, maintainable codebases
+## 📈 What I Learned
+ - Managing a full-stack project with clear folder separation
+ - Configuring environment variables securely
+ - Using Git and GitHub effectively
+ - Deploying React apps with Vercel
+ - Structuring scalable, maintainable codebases
