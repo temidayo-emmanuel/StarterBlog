@@ -23,8 +23,6 @@ StarterBlog allows users to create, edit, and publish blog posts seamlessly. It 
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 StarterBlog/
 ├── client/             # React frontend application
