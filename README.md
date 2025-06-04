@@ -23,17 +23,22 @@ StarterBlog allows users to create, edit, and publish blog posts seamlessly. It 
 
 ## 📁 Project Structure
 
-StarterBlog/
-├── client/          # React frontend application
-│   ├── src/         # React components and assets
-│   └── .env         # Environment variables (ignored in Git)
-├── server/          # Backend API (if applicable)
-├── .gitignore       # Files and folders excluded from Git tracking
-├── README.md        # Project documentation
-├── package.json     # Project metadata and dependencies
-├── vite.config.js   # Vite bundler configuration
-└── vercel.json      # Deployment configuration for Vercel
+## 📁 Project Structure
 
+```text
+StarterBlog/
+├── client/             # React frontend application
+│   ├── src/            # Application source code (components, pages, assets)
+│   └── .env            # Environment variables (not committed to Git)
+│
+├── server/             # Express backend API (if applicable)
+│   └── .env            # Server-side environment variables (ignored by Git)
+│
+├── .gitignore          # Specifies files/folders to exclude from Git tracking
+├── README.md           # Project documentation and setup instructions
+├── package.json        # Project metadata and root-level dependencies
+├── vite.config.js      # Vite configuration for the frontend
+└── vercel.json         # Deployment configuration (e.g., for Vercel)
 
 ---
 
