@@ -80,5 +80,3 @@ StarterBlog/
   
   cd ../server
   npm start
-  
----
